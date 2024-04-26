@@ -1,16 +1,14 @@
-### Hi there 👋
+# NortexApp
 
-<!--
-**NortexApp/NortexApp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NortexApp is an open, secure web3 communication infrastructure that powers decentralized user interactions - enabling users to chat, trade and socialize seamlessly within and across applications. We provide customized and easy-to-install chatting solutions for Web3 Gaming, Wallets and general Dapp developers.
 
-Here are some ideas to get you started:
+# Documentation
+Please refer to our [Documentation page](https://github.com/NortexApp) for more details.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Resources
+Official Website: www.nortexapp.io
+
+Twitter: https://twitter.com/nortexapp
+
+Email: developer@nortexapp.io
+
